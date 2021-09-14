@@ -1,10 +1,10 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "This is my personal website."
+title: "Hemanoel Passarelli"
+subtitle: "Evolution | Programming | Statistics"
+description: "Welcome to my personal website"
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/unicorn-megaphone.png
+  - img/tree_home.png
 image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config
