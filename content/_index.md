@@ -1,7 +1,7 @@
 ---
 title: "Hemanoel Passarelli"
 subtitle: "Evolution | Programming | Statistics"
-description: "Welcome to my personal website"
+description: "Welcome to the draft of my personal website."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/tree_home.png
